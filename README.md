@@ -1,5 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#93BEE3&height=120&section=header"/>
-# 💫 Sobre mim
+## 💫 Sobre mim
 ### Olá! Eu sou o <b>Yan Kairós</b>
 
 👾Atualmente trabalho com RPA's
