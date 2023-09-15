@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#93BEE3&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=93BEE3&height=120&section=header"/>
 
 
 # 💫 Sobre mim
@@ -51,4 +51,5 @@ Here are some ideas to get you started:
 -->
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#93BEE3&height=120&section=footer"/>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=93BEE3&height=120&section=footer"/>
